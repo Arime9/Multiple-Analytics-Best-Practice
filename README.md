@@ -3,6 +3,13 @@ How to send to multiple analytics.
 
 ## Rule
 
+Screen
+
+|          | ScreenName                      |
+|:---------|:--------------------------------|
+| GA       | CategoryPage / CategoryHogePage |
+| Firebase | CategoryPage / CategoryHogePage |
+
 Event
 
 |          | Category | Action | Label             | Value    |

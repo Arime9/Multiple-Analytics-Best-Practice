@@ -1,6 +1,18 @@
 # Multiple-Analytics-Sample
 How to send to multiple analytics.
 
+## Rule
+
+Event
+
+|          | Category | Action | Label             | Value    |
+|:---------|:---------|:-------|:------------------|:---------|
+| GA       | Category | Action | Key:Parameter,... | NSNumber |
+
+|          | Name            | Parameters                             |
+|:---------|:----------------|:---------------------------------------|
+| Firebase | Category_Action | {Key: Parameter, ..., Value: NSNumber} |
+
 ## Screen log
 TopViewController
 

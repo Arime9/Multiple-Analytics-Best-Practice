@@ -42,13 +42,13 @@ Remove category on the Top page.
 
 Registered on the Detail page.
 
-    - (IBAction)registerButtonDidTouch:(id)sender {
+    - (void)registerDidCompletion {
         [MTAnalytics logWithCategory:MTCategoryDetail action:MTActionDetailRegisterComp parameters:@{MTLabelId: @"1"}];
     }
 
 Unregistered on the Detail page.
 
-    - (IBAction)unregisterButtonDidTouch:(id)sender {
+    - (void)unregisterDidCompletion {
         [MTAnalytics logWithCategory:MTCategoryDetail action:MTActionDetailUnregisterComp parameters:@{MTLabelId: @"3"}];
     }
 
@@ -60,6 +60,6 @@ Show info on the Setting page.
 
 Saved setting on the Setting page.
 
-    - (IBAction)saveButtonDidTouch:(id)sender {
+    - (void)saveDidCompletion {
         [MTAnalytics logWithCategory:MTCategorySetting action:MTActionSettingComp];
     }

@@ -5,7 +5,7 @@ How to send to multiple analytics.
 
 Screen
 
-|          | ScreenName                      |
+|          | Screen name                     |
 |:---------|:--------------------------------|
 | GA       | CategoryPage / CategoryHogePage |
 | Firebase | CategoryPage / CategoryHogePage |

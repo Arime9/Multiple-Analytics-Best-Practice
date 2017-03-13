@@ -20,7 +20,7 @@ Event
 |:---------|:----------------|:---------------------------------------|
 | Firebase | Category_Action | {Key: Parameter, ..., Value: NSNumber} |
 
-Event / action
+Event / Action
 
 | Action type | Note                                                      |
 |:------------|:----------------------------------------------------------|

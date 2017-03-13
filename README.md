@@ -20,7 +20,16 @@ Event
 |:---------|:----------------|:---------------------------------------|
 | Firebase | Category_Action | {Key: Parameter, ..., Value: NSNumber} |
 
-## Screen log
+Event / action
+
+| Action type | Note                                                      |
+|:------------|:----------------------------------------------------------|
+| Click       | Click button etc.                                         |
+| Comp        | Registration and update, deletion with communication etc. |
+| View        | Display of dialog etc.                                    |
+
+## Sample
+### Screen log
 TopViewController
 
     - (void)viewDidAppear:(BOOL)animated {
@@ -45,7 +54,7 @@ SettingViewController
         [MTAnalytics logWithScreen:MTScreenSettingPage];
     }
 
-## Event log
+### Event log
 
 Add category on the Top page.
 

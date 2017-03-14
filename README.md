@@ -51,11 +51,24 @@ Event
 
 Event / Action
 
-| Action type | Note                                                      |
-|:------------|:----------------------------------------------------------|
-| Click       | Click button etc.                                         |
-| Comp        | Registration and update, deletion with communication etc. |
-| View        | Display of dialog etc.                                    |
+<table>
+  <tr>
+    <th>Action type</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td>Click</td>
+    <td>Click button etc.</td>
+  </tr>
+  <tr>
+    <td>Comp</td>
+    <td>Registration and update, deletion with communication etc.</td>
+  </tr>
+  <tr>
+    <td>View</td>
+    <td>Display of dialog etc.</td>
+  </tr>
+</table>
 
 ## Sample
 ### Screen log

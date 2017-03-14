@@ -12,13 +12,32 @@ Screen
 
 Event
 
-|          | Category | Action | Label             | Value    |
-|:---------|:---------|:-------|:------------------|:---------|
-| GA       | Category | Action | Key:Parameter,... | NSNumber |
-
-|          | Name            | Parameters                             |
-|:---------|:----------------|:---------------------------------------|
-| Firebase | Category_Action | {Key: Parameter, ..., Value: NSNumber} |
+<table>
+  <tr>
+    <th></th>
+    <th>Category</th>
+    <th>Action</th>
+    <th>Label</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>GA</td>
+    <td>Category</td>
+    <td>Action</td>
+    <td>Key:Parameter,...</td>
+    <td>NSNumber</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th colspan=2>Name</th>
+    <th colspan=2>Parameters</th>
+  </tr>
+  <tr>
+    <td>Firebase</td>
+    <td colspan=2>Category_Action</td>
+    <td colspan=2>{Key: Parameter, ..., Value: NSNumber}</td>
+  </tr>
+</table>
 
 Event / Action
 

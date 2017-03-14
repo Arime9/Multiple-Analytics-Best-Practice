@@ -5,10 +5,20 @@ How to send to multiple analytics.
 
 Screen
 
-|          | Screen name                     |
-|:---------|:--------------------------------|
-| GA       | CategoryPage / CategoryHogePage |
-| Firebase | CategoryPage / CategoryHogePage |
+<table>
+  <tr>
+    <th></th>
+    <th>Screen name</th>
+  </tr>
+  <tr>
+    <td>GA</td>
+    <td>CategoryPage | CategoryHogePage</td>
+  </tr>
+  <tr>
+    <td>Firebase</td>
+    <td>CategoryPage | CategoryHogePage</td>
+  </tr>
+</table>
 
 Event
 

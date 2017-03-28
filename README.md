@@ -1,4 +1,4 @@
-# Multiple-Analytics-Sample
+# Multiple-Analytics-Best-Practice
 How to send to multiple analytics.
 
 ## Rule

@@ -3,7 +3,7 @@ How to send to multiple analytics.
 
 ## Rule
 
-Screen
+### Screen
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ Screen
   </tr>
 </table>
 
-Event
+### Event
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ Event
   </tr>
 </table>
 
-Event / Action
+### Event / Action
 
 <table>
   <tr>
